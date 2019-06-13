@@ -368,13 +368,13 @@
   
   }
 
-  img.header {
-    display: block;
-    margin-left: auto;
+  p.introduction {
+    margin-left: 15px;
     margin-right: 15px;
-    width: 60%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', Verdana, sans-serif;
+    border: 10px solid #FAFAD2;
   }
-
+  
   p {
     font-family:  Verdana, 'Lucida Sans', 'Lucida Sans Regular', sans-serif;
     margin-right: 15px;
@@ -386,12 +386,7 @@
     margin-right: 15px;
   }
 
-  p.introduction {
-    margin-left: 15px;
-    margin-right: 15px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', Verdana, sans-serif;
-    border: 10px solid #FAFAD2;
-  }
+  
 
   #title {
     background-image: url(Images/trees.JPG);
